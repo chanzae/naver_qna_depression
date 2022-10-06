@@ -1,2 +1,1 @@
-# naver_qna_depression
-네이버 지식인 우울증 키워드로 알아본 우울의 단어들
+![이미지](https://user-images.githubusercontent.com/106292833/194260871-346c3700-57c4-463d-89ea-7abcf3679cd6.png)
